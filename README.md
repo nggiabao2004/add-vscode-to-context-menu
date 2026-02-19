@@ -1,4 +1,4 @@
-**Windows Registry Editor Version 5.00**
+**Add Visual Studio Code To Context Menu**
 
 Here is the standardized `.reg` (Registry) file content, ready for you to copy and use. I have used the `%LocalAppData%` environment variable so this file will work on any computer without needing to manually edit your username.
 
